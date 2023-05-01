@@ -1,0 +1,69 @@
+.hell{
+    margin: 0;
+    color: black;
+    text-shadow: 2px 2px 2px blueviolet;
+}
+
+.APP{
+    height: 100vh;
+    background:linear-gradient(rgba(170,208,224,1)0%,rgba(243,172,184,1)51%,rgba(248,243,244,1)100%);
+}
+.TBox{
+    display:flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.FBox{
+    background-color:beige;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin-right: 80px;
+    padding: 15px 15px;
+
+}
+.FBox:hover{
+    background-color: #62fdfd;
+}
+.SBox{
+    background-color: beige;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin-left: 80px;
+    padding: 15px 15px;
+
+}
+.SBox:hover{
+    background-color: #62fdfd;
+}
+.lc{
+    color: blue;
+}
+.TBigBox{
+    margin-top: 100px;
+}
+.FBigBox{
+    margin-left: 100px;
+    border: 2px solid black;
+    background-color:aqua;
+    width: 550px;
+    height: 280px;
+    border-radius: 25px;
+}
+.SecBigBox{
+    position: absolute;
+    transform: translateX(-50%);
+    left: 1020px;
+    bottom: 220px;
+    margin-top: 80px;
+    border: 2px solid black;
+    background-color: #d27fd2;
+    width: 550px;
+    height: 280px;
+    border-radius: 25px;
+    top: 140px;
+
+}
+   
+.mid{
+    text-align: center;
+}
