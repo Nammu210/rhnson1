@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rhnson1/static/css/main.0b70f7c8.css",
+    "main.js": "/rhnson1/static/js/main.c0088768.js",
+    "static/js/787.b39d65b3.chunk.js": "/rhnson1/static/js/787.b39d65b3.chunk.js",
+    "static/media/logo.svg": "/rhnson1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rhnson1/index.html",
+    "main.0b70f7c8.css.map": "/rhnson1/static/css/main.0b70f7c8.css.map",
+    "main.c0088768.js.map": "/rhnson1/static/js/main.c0088768.js.map",
+    "787.b39d65b3.chunk.js.map": "/rhnson1/static/js/787.b39d65b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b70f7c8.css",
+    "static/js/main.c0088768.js"
+  ]
+}
